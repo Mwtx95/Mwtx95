@@ -10,6 +10,7 @@
 Mwtx95/Mwtx95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 <div align="center">
 
 <!-- Typing SVG Header -->
@@ -23,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mwtx95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180px"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mwtx95&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180px"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mwtx95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mwtx95&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
 
 </div>
 
@@ -55,23 +56,24 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mwtx95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mwtx95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
-
+<!-- Typing SVG Header 
 ## 📌 Pinned / Recent Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mwtx95&repo=Mwtx95&theme=tokyonight&hide_border=true)](https://github.com/Mwtx95)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mwtx95&repo=Mwtx95&theme=tokyonight&hide_border=true)](https://github.com/Mwtx95)
 
 > 💡 _Replace the `repo=` values above with your actual repo names to showcase your best work!_
 
 </div>
 
 ---
+-->
 
 ## 📦 Recent Activity
 
