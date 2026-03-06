@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
+-->
 
 ## 📈 Contribution Graph
 
@@ -51,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
-
+<!--
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -61,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ---
-<!-- Typing SVG Header 
+<!--
 ## 📌 Pinned / Recent Projects
 
 <div align="center">
@@ -74,13 +75,12 @@ You can click the Preview link to take a look at your changes.
 
 ---
 -->
-
+<!--
 ## 📦 Recent Activity
 
 <!--START_SECTION:activity-->
 > ⚡ This section auto-updates when you set up the [GitHub Activity README Action](https://github.com/jamesgeorge007/github-activity-readme).
 <!--END_SECTION:activity-->
-
 ---
 
 <div align="center">
